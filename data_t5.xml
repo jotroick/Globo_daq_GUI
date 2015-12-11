@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<chart>
+	<categories>
+		<item>GLOBODAQ</item>
+	</categories>
+	<series>
+		<name>Temperature</name>
+		<data>
+			<point>[1,35]</point>
+			<point>[2,46]</point>
+			<point>[3,62]</point>
+			<point>[4,56]</point>
+			<point>[5,78]</point>
+			<point>[6,89]</point>
+			<point>[7,12]</point>
+		    <point>[8,67]</point>
+			<point>[9,100]</point>
+			<point>[10,140]</point>
+			<point>[11,16]</point>
+			<point>[12,17]</point>
+			<point>[13,27]</point>
+			<point>[14,37]</point>
+			<point>[15,90]</point>
+			<point>[16,77]</point>
+			<point>[17,65]</point>
+			<point>[18,78]</point>
+			<point>[19,47]</point>
+			<point>[20,28]</point>
+			<point>[21,80]</point>
+			<point>[22,49]</point>
+			<point>[23,20]</point>
+			<point>[24,63]</point>
+			<point>[25,14]</point>
+			<point>[26,12]</point>
+			<point>[27,26]</point>
+			<point>[28,35]</point>
+			<point>[29,89]</point>
+			<point>[30,90]</point>
+		
+		</data>
+	</series>	
+</chart>
